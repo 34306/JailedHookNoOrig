@@ -1,0 +1,9 @@
+Package: com.34306.hookjailed
+Name: hookjailed
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hook no original for apps on jailed devices
+Maintainer: Little 34306
+Author: 34306
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
